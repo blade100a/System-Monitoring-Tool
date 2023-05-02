@@ -1,6 +1,4 @@
-# CSCB09 Winter 2023
-
-### Assignment 3: System Monitoring Tool -- Concurrency & Signals
+### System Monitoring Tool -- Concurrency & Signals
 - Harri Pahirathan
 
 ### Files:
