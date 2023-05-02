@@ -2,7 +2,6 @@
 
 ### Assignment 3: System Monitoring Tool -- Concurrency & Signals
 - Harri Pahirathan
-- 1003371549
 
 ### Files:
  - A3.c
